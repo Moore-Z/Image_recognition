@@ -1,4 +1,4 @@
-# Flower-Recognition-
+# Image-recognition-
 Used convolutional neutral network for Image recognition 
 
 
